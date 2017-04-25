@@ -1,0 +1,9 @@
+{
+  "driver": "mysql",
+  "host" : "localhost",
+  "dbname": "shop",
+  "username" : "root",
+  "password" : "3348",
+  "port" : "3306",
+  "charset": "UTF8"
+}

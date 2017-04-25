@@ -1,0 +1,7 @@
+{
+  "getAll": "SELECT * FROM {$table}",
+  "getProperties": "SELECT {$atr_set} FROM {$table}",
+  "getById": "SELECT * FROM {$table} WHERE id = {$id}",
+  "insert": "INSERT INTO {$table}({$atr_names}) VALUES ({$atr_values})",
+  "delete": "DELETE from {$table} WHERE id={$id}"
+}
